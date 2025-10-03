@@ -1,4 +1,4 @@
-# Lung Cancer Classification🫁🤖
+# Lung Cancer Classification🤖
 
 Detecting lung cancer has never been this visual — or this smart!  
 
