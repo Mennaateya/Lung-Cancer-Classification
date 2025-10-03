@@ -18,13 +18,15 @@ A deep learning-powered image classifier that identifies different types of lung
 
 ## 📊 Dataset
 
-We used the [Lung Cancer Histopathological Images Dataset](https://www.kaggle.com/datasets/rm1000/lung-cancer-histopathological-images/data?select=squamous_cell_carcinoma), which contains:
+I used the [Lung Cancer Histopathological Images Dataset](https://www.kaggle.com/datasets/rm1000/lung-cancer-histopathological-images/data?select=squamous_cell_carcinoma), which contains:
 
 - **Adenocarcinoma** – malignant glandular tissue  
 - **Squamous Cell Carcinoma** – malignant squamous cells  
 - **Benign** – normal tissue  
 
 Images are organized in folders by class.
+
+🚀 **Try the Streamlit App here:** [Lung Cancer Classification](https://cv-lung-cancer-classification.streamlit.app/)
 
 ---
 
